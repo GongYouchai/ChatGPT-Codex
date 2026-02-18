@@ -1,0 +1,14 @@
+{
+  "glassnode_api_key": "YOUR_GLASSNODE_API_KEY",
+  "asset": "BTC",
+  "interval": "1h",
+  "lookback_points": 48,
+  "zscore_threshold": 2.5,
+  "min_abs_netflow_btc": 1500,
+  "min_pct_change": 40,
+  "check_interval_seconds": 300,
+  "cooldown_minutes": 45,
+  "telegram_bot_token": "",
+  "telegram_chat_id": "",
+  "webhook_url": ""
+}
