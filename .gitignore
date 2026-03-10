@@ -1,0 +1,7 @@
+.DS_Store
+.codex/
+__pycache__/
+*.pyc
+.venv/
+state/
+config.json
